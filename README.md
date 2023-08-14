@@ -1,5 +1,13 @@
 # Nguyen Van Thuy - React Native assessment
 
+### Summary:
+##### [Project structure](https://github.com/thuytony/TodoApp#nguyen-van-thuy---react-native-assessment)
+##### [Run the application](https://github.com/thuytony/TodoApp#how-to-run)
+##### [Run the unit test](https://github.com/thuytony/TodoApp#how-to-run-unit-tests)
+##### [Code improvement](https://github.com/thuytony/TodoApp#what-do-we-need-to-do-to-improve-this-project)
+##### [Video demo](https://github.com/thuytony/TodoApp#video-demo)
+#
+
 ![Project structure](https://i.ibb.co/4MF3FKF/Todo-App-Project-Structure.png)
 ##### As seen in the referenced screenshot above, At the very first I create a base folder “src” which will store all the necessary folders or files in it for the project.
 

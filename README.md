@@ -5,7 +5,7 @@
 ##### [Run the application](https://github.com/thuytony/TodoApp#how-to-run)
 ##### [Run the unit test](https://github.com/thuytony/TodoApp#how-to-run-unit-tests)
 ##### [Code improvement](https://github.com/thuytony/TodoApp#what-do-we-need-to-do-to-improve-this-project)
-##### [Video demo](https://github.com/thuytony/TodoApp#video-demo)
+##### [Video demo](https://github.com/thuytony/TodoApp#video-demo-1)
 #
 
 ![Project structure](https://i.ibb.co/4MF3FKF/Todo-App-Project-Structure.png)
